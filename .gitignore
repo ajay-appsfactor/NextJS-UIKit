@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+.txt
+ajay.txt
+
 # production
 /build
 
